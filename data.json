@@ -1,0 +1,212 @@
+{
+  "points_of_interest": {
+    "amphitheatre": {
+      "label": {
+        "en": "Amphitheatre",
+        "ar": "ﺔﻤﻜﺤﻟا نﺎﺘﺴﺑ"
+      },
+      "description": {
+        "en": "A large outdoor performing arts venue which can accommodate more than 2000 people. This outdoor facility is great for outdoor concerts and other public events.",
+        "ar": ".ﺺﺨﺷ 2000 ﻦﻣ ﺮﺜﻛﺄﻟ ﻊﺴﺘﻳ ﺚﻴﺣ ،ىﺮﺒﻜﻟا ﺔﻴﻨﻔﻟا ضوﺮﻌﻟاو تﺎﻴﻟﺎﻌﻔﻟا ﺔﻓﺎﻀﺘﺳﺎﻟ ةﺮﻴﺒﻛ ﺔﻴﺟرﺎﺧ ﺔﺣﺎﺴﻣ حﻮﺘﻔﻤﻟا حﺮﺴﻤﻟا ﺪﻋُي"
+      }
+    },
+    "botanic-garden": {
+      "label": {
+        "en": "Botanic Garden",
+        "ar": "تﺎﺗﺎﺒﻨﻟا ﺔﻘﻳﺪﺣ"
+      },
+      "description": {
+        "en": "Planted with over 200 regional plant species, many of which have cultural and historical significance, as well as a calming natural pond with natural stones.",
+        "ar": ".ﺔﻴﻌﻴﺒﻃ رﻮﺨﺻ ﻦﻣ ﺎﻬﻌﻴﻤﺟ ﺔﻋﻮﻨﺼﻣ ﺔﻴﺋﺎﻣ تﺎﺤﻄﺴﻣ ﻰﻟإ ﺔﻓﺎﺿﺈﻟﺎﺑ ،ﺔﻴﻓﺎﻘﺛو ﺔﻴﺨﻳرﺎﺗ ﺔﻴﻤﻫأ وذ ﺎﻬﻀﻌﺑ ،ﺔﻴﻤﻴﻠﻗﺈﻟا تﺎﺗﺎﺒﻨﻟا ﻞﺋﺎﺼﻓ ﻦﻣ 200 ﻦﻣ ﺮﺜﻛأ تﺎﺗﺎﺒﻨﻟا ﺔﻘﻳﺪﺣ ﻢﻀﺗ"
+      }
+    },
+    "childrens-garden": {
+      "label": {
+        "en":"Children's Garden",
+        "ar": "ىﺮﺒﻜﻟا ﺐﺸﻌﻟا ﺔﻘﻄﻨﻣ"
+      },
+      "description": {
+        "en": "A modern and interactive play area with a Water Splash area, Fun Wadi, Animal Barn and Outdoor Cinema.",
+        "ar": ".ﻖﻠﻄﻟا ءاﻮﻬﻟا ﻲﻓ ﺎﻤﻨﻴﺳو ﺔﻴﻠﻋﺎﻔﺗ ﺮﻴﻓاﻮﻧو تﺎﻧاﻮﻴﺤﻟا ةﺮﻴﻈﺣ ًﺎﻀﻳأ لﺎﻔﻃﺄﻟا ﺔﻘﻳﺪﺣ ﻢﻀﺗو .يداﻮﻟا ﻲﻓ ﺔﻠﺜﻤﺘﻤﻟا حﺮﻤﻟاو ﺪﻳﺮﺒﺘﻟا ﺔﻘﻄﻨﻣ ﻰﻟإ ﺔﻓﺎﺿﺈﻟﺎﺑ ﺔﻴﻠﻋﺎﻔﺗو ﺔﺜﻳﺪﺣ بﺎﻌﻟأ ﻖﻃﺎﻨﻤﺑ ةدوﺰﻣ ﺔﻘﻄﻨﻣ"
+      }
+    },
+    "evening-garden": {
+      "label": {
+        "en": "Evening Garden",
+        "ar": "حﻮﺘﻔﻤﻟا حﺮﺴﻤﻟا"
+      },
+      "description": {
+        "en": "A haven of serenity where you can relax and enjoy a moment of calm in a green sanctuary.",
+        "ar": ".ﺔﻘﻳﺪﺤﻟا ﻦﻣ ئدﺎﻬﻟا ﻦﻛﺮﻟا اﺬﻫ ﻲﻓ ﺮﻀﺧﺄﻟا ﺐﺸﻌﻟا ﻰﻠﻋ ﻞﻣﺄﺘﻟاو ءﺎﺧﺮﺘﺳﺎﻟا راوﺰﻠﻟ ﻦﻜﻤﻳ"
+      }
+    },
+    "great-lawn": {
+      "label": {
+        "en": "Great Lawn",
+        "ar": "ﻞﻈﻟا ﺖﻴﺑ"
+      },
+      "description": {
+        "en": "A commanding open space with two playgrounds that can be used for an array of activities, from a game of football to outdoor yoga classes or simply relaxing on the lush greenery.",
+        "ar": ".ﺮﻀﺧﺄﻟا ﺐﺸﻌﻟا ﻰﻠﻋ ءﺎﺧﺮﺘﺳﺎﻟا دﺮﺠﻤﻟ ﻰﺘﺣ وأ ،ﺎﻏﻮﻴﻟا ﺺﺼﺣ وأ ﺔﻴﺿﺎﻳﺮﻟا ﺔﻄﺸﻧﺄﻟا ﻚﻟذ ﻲﻓ ﺎﻤﺑ ﺔﻔﻠﺘﺨﻣ تﺎﻃﺎﺸﻧو ضاﺮﻏﺄﻟ ﺎﻬﻣاﺪﺨﺘﺳا ﻢﺘﻳو ،بﺎﻌﻟﺄﻠﻟ ﻦﻴﺘﺣﺎﺑ ﻢﻀﺗ ﺔﻌﺳاوو ﺔﺣﻮﺘﻔﻣ ﺔﻘﻄﻨﻣ"
+      }
+    },
+    "shade-house": {
+      "label": {
+        "en": "Shade House",
+        "ar": "ءﺎﺴﻤﻟا ﺔﻘﻳﺪﺣ"
+      },
+      "description": {
+        "en": "An iconic structure towering over the Park that houses 40 species of plants in a moisture - controlled environment with two upper-level decks.",
+        "ar": ".ﺎﻬﺗﺎﺟﺎﻴﺘﺣا ﻊﻣ ﺐﺳﺎﻨﺘﺗ ﺔﺌﻴﺑ ﻲﻓ ةﺪﺟاﻮﺘﻤﻟا تﺎﺗﺎﺒﻨﻟا ﻞﺋﺎﺼﻓ ﻦﻣ 40 ﻦﻣ ﺮﺜﻛأو ﻦﻴﻳﻮﻠﻋ ﻦﻴﻘﺑﺎﻃ ﻢﻀﻳ ﺚﻴﺣ تارﺎﻣﺈﻟا مأ ﺔﻘﻳﺪﺣ ﻢﻟﺎﻌﻣ زﺮﺑأ ﺪﺣأ ﻞﻈﻟا ﺖﻴﺑ ﺮﺒﺘﻌﻳ"
+      }
+    },
+    "wisdom-garden": {
+      "label": {
+        "en": "Wisdom Garden",
+        "ar": "لﺎﻔﻃﺄﻟا ﺔﻘﻳﺪﺣ"
+      },
+      "description": {
+        "en": "This peaceful and exquisitely designed area invites visitors to reflect on Sheikh Zayed’s timeless and unforgettable quotes about the UAE and protection of the country’s heritage and natural history.",
+        "ar": ".ﺔﻟوﺪﻟا ﻲﻓ ﻲﻌﻴﺒﻄﻟا ﺦﻳرﺎﺘﻟاو ﻲﻠﺤﻤﻟا ثاﺮﺘﻟا ﻰﻠﻋ ظﺎﻔﺤﻟا ﺔﻴﻤﻫأو ةﺪﺤﺘﻤﻟا ﺔﻴﺑﺮﻌﻟا تارﺎﻣﺈﻟا ﺔﻟود ﻦﻋ )هاﺮﺛ ﻪﻠﻟا ﺐﻴﻃ( نﺎﻴﻬﻧ لآ نﺎﻄﻠﺳ ﻦﺑ ﺪﻳاز ﺦﻴﺸﻟا ﻪﻠﻟا نذﺈﺑ ﻪﻟ رﻮﻔﻐﻤﻠﻟ ةرﻮﺛﺄﻤﻟا ﺪﻳاز ﺦﻴﺸﻟا لاﻮﻗأ ﻲﻓ ﺮﻴﻜﻔﺘﻟاو ﻞﻣﺄﺘﻠﻟ راوﺰﻟا ﺔﺋدﺎﻬﻟا ﺔﻘﻄﻨﻤﻟا هﺬﻫ ﻮﻋﺪﺗ"
+      }
+    }
+  },
+  "other_points": [
+    {
+      "type": "restaurants",
+      "id": "green-for-life",
+      "label": {
+        "en": "Green for Life",
+        "ar": "ﻒﻳﺎﻟ رﻮﻓ ﻦﻳﺮﺟ"
+      },
+      "pos": {
+        "x": "30%",
+        "y": "35%"
+      }
+    },
+    {
+      "type": "restaurants",
+      "id": "miras-creamery",
+      "label": {
+        "en":"Mira's Creamery",
+        "ar": "يﺮﻴﻤﻳﺮﻛ زاﺮﻴﻣ "
+      },
+      "pos": {
+        "x": "26.5%",
+        "y": "60.5%"
+      }
+    },
+    {
+      "type": "restaurants",
+      "id": "movenpick",
+      "label": {
+        "en": "Mövenpick Ice Cream",
+        "ar": "موفينبيك ايس كريم"
+      },
+      "pos": {
+        "x": "83%",
+        "y": "46%"
+      }
+    },
+    {
+      "type": "restaurants",
+      "id": "parkers",
+      "label": {
+        "en":"Parker's",
+        "ar": "زركراب"
+      },
+      "pos": {
+        "x": "47%",
+        "y": "62%"
+      }
+    },
+    {
+      "type": "restaurants",
+      "id": "farmers",
+      "label": {
+        "en":"Farmer's Bistro",
+        "ar": "وﺮﺘﺴﻴﺑ زﺮﻣرﺎﻓ"
+      },
+      "pos": {
+        "x": "54%",
+        "y": "63%"
+      }
+    },
+    {
+      "type": "restaurants",
+      "id": "hombe-bakery",
+      "label": {
+        "en": "Home Bakery",
+        "ar": "يﺮﻜﻴﺑ مﻮﻫ"
+      },
+      "pos": {
+        "x": "59%",
+        "y": "60%"
+      }
+    },
+    {
+      "type": "restaurants",
+      "id": "salt",
+      "label": {
+        "en": "Salt",
+        "ar": "تلاس"
+      },
+      "pos": {
+        "x": "75%",
+        "y": "70%"
+      }
+    },
+    {
+      "type": "restaurants",
+      "id": "pinza",
+      "label": {
+        "en": "Pinza",
+        "ar": "بينزا"
+      },
+      "pos": {
+        "x": "60.5%",
+        "y": "40%"
+      }
+    },
+    {
+      "type": "toilets",
+      "id": "t1",
+      "pos": {
+        "x": "13%",
+        "y": "59%"
+      }
+    },
+    {
+      "type": "toilets",
+      "id": "t2",
+      "pos": {
+        "x": "62%",
+        "y": "56%"
+      }
+    },
+    {
+      "type": "toilets",
+      "id": "t3",
+      "pos": {
+        "x": "64%",
+        "y": "43%"
+      }
+    },
+    {
+      "type": "toilets",
+      "id": "t4",
+      "pos": {
+        "x": "77.5%",
+        "y": "43%"
+      }
+    },
+    {
+      "type": "prayer",
+      "id": "prayer",
+      "pos": {
+        "x": "65.5%",
+        "y": "54%"
+      }
+    }
+  ]
+}
